@@ -1,9 +1,9 @@
 {
+  "homepage": "https://jassuwu.github.io/hoobank-modern-app",
   "name": "hoobank-modern-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jassuwu.github.io/hoobank-modern-app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
